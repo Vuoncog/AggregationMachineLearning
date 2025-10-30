@@ -39,10 +39,10 @@ $$
 To optimize the $\theta_0$ and $\theta_1$ to have minimal value of "Cost function", <b>convergence algorithm</b> will
 repeat itself until
 $\theta_0$ and $\theta_1$ reach the global minima in graph.
-![Global minima](https://upload.wikimedia.org/wikipedia/commons/6/68/Extrema_example_original.svg)
+![Global minima](https://www.i2tutorials.com/wp-content/media/2019/09/Neural-network-32-i2tutorials.png)
 <div style="text-align: center;">Global minima and Local minima</div>
 
-![Global minima](https://i.sstatic.net/e4wjp.png)
+![Global minima](https://miro.medium.com/v2/resize:fit:1200/1*lYpF8xJ3TiDoq461I0AcOQ.jpeg)
 <div style="text-align: center;">Gradient descent</div>
 
 ###### Formula after derivation
@@ -59,4 +59,4 @@ $$
 
 ###### Graph:
 
-![Linear Regression Example](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg)
+![Linear Regression Example](https://www.researchgate.net/publication/381857634/figure/fig1/AS:11431281257626828@1719839742106/Linear-regression-model.png)
