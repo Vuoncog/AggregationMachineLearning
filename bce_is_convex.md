@@ -59,5 +59,4 @@ $\implies L''(z) = \frac{e^z}{(1+e^z)^2}$
 - $e^z > 0 \\\ \forall z$
 - $(1+e^z)^2 \geq0$
 
-$\implies Binary~~Cross~~Entropy~~is~~convex$
--
+#### $\implies$ Binary Cross Entropy is convex
