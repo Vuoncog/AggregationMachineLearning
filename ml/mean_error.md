@@ -1,6 +1,7 @@
 # Mean squared error (MSE)
 
 $$ MSE = \frac{1}{n} \sum^n_{i=1} \\\ (y - \hat{y})^2$$
+
 $n$ : Number of data points\
 $y$ : True output\
 $\hat{y}$ : Predicted output
