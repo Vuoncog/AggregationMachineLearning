@@ -3,9 +3,10 @@
 ##### Linear regression: $ \hat{y} = \beta_0 + \beta_1x $
 ##### OLS formula:
 $$ S(\beta_0,\beta_1) \\\ = \\\ \frac{1}{n} \sum^n_{i=1} (y_i - \hat{y}_i)^2 $$
-$S(\beta_0,\beta_1)$ : OLS\
-$y_i$ : True output\
-$\hat{y}_i$ : Predicted output
+
+- $S(\beta_0,\beta_1)$ : OLS
+- $y_i$ : True output
+- $\hat{y}_i$ : Predicted output
 ---
 Derivation of OLS and assigning that derivation with zero
 ($\frac{\partial{S(\beta_0,\beta_1)}}{\partial{\beta_0}} = 0 \\\ and \\\ \frac{\partial{S(\beta_0,\beta_1)}}{\partial{\beta_1}} = 0$) to reach purpose of OLS:
